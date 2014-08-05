@@ -1,0 +1,5 @@
+2014-08-06 02:29:11,280 INFO  [testing] url is opened successfully 
+2014-08-06 02:29:14,655 INFO  [testing] clicked succesfully 
+2014-08-06 02:37:00,697 INFO  [testing] url is opened successfully 
+2014-08-06 02:37:00,698 ERROR [testing] hello there 
+2014-08-06 02:37:04,384 INFO  [testing] clicked succesfully 
